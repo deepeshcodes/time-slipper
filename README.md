@@ -67,5 +67,5 @@ Java, Swing/AWT, `javax.sound.sampled` (the horror sounds are generated in code,
 ## Credits
 
 - Original game (levels, gameplay, art, and dialogue): Deepesh Arun
-- Horror layer (`Horror.java`: darkness, sounds, whispers, jumpscare): added with Claude Code for Hacktoberfest Hack Day Toronto x Hack the 6ix (Oct 2026)
-- Fonts: SuperLegendBoy and Emulogic (check each font's license before redistributing)
+- Horror layer (`Horror.java`: darkness, sounds, whispers, jumpscare) for Hacktoberfest Hack Day Toronto x Hack the 6ix (Oct 2026)
+- Fonts: SuperLegendBoy and Emulogic 
