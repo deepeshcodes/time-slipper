@@ -3,6 +3,10 @@
 A top-down horror-action game written in Java (Swing/AWT). You play as **Cable**, an officer who can stop time by standing still, and fight through two levels of enemies to reach the boss, **MechaFlyingGoblinRobot**, in a darkened final level.
 
 > **Content warning:** the game has darkness, a loud jumpscare, and a heartbeat sound. Turn your volume down a little before you start. Press **H** in game to switch the horror effects on or off.
+<img width="1422" height="800" alt="image" src="https://github.com/user-attachments/assets/7d2f5284-5a17-4da2-bee2-b07183e5598f" />
+<img width="1536" height="857" alt="image" src="https://github.com/user-attachments/assets/9001aa6c-6151-4959-8fe6-baafc5c8380d" />
+<img width="161" height="166" alt="image" src="https://github.com/user-attachments/assets/ed746ea9-b838-4349-980d-4140539f4f31" />
+<img width="161" height="166" alt="image" src="https://github.com/user-attachments/assets/8db6fdca-b8c5-4711-b798-b4ee5c3de485" />
 
 ## Background
 
